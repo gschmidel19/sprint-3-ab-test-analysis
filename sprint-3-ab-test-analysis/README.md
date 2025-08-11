@@ -1,4 +1,4 @@
-# Sprint 3 – Teste A/B: Decisão Baseada em Dados
+# Teste A/B: Decisão Baseada em Dados
 
 Este projeto tem como objetivo a análise de um experimento A/B realizado por uma loja online. A proposta é avaliar se uma nova estratégia de promoção teve impacto significativo no aumento da taxa de conversão de pedidos.
 
@@ -39,4 +39,5 @@ A partir da análise, foi possível determinar se a nova promoção gerou um aum
 
 Gabriel Schmidel  
 [LinkedIn](https://www.linkedin.com/in/gabriel-schmidel-37975ba3) | gschmidel@hotmail.com
+
 
